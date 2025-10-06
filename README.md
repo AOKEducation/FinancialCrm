@@ -14,4 +14,12 @@ Bu proje, Murat Yücedağ'ın akıcı ve öğretici anlatımı ile izleyip uygul
 - Ayarlar formundan kullanıcı şifre değişikliği yapılmaktadır.
 
 📷 Uygulama Ekran Görüntüleri
-
+<img width="818" height="481" alt="FinancialCrm_01" src="https://github.com/user-attachments/assets/1f958f72-8d3f-48d5-b3ec-09f0bcbf7093" />
+<img width="818" height="481" alt="FinancialCrm_02" src="https://github.com/user-attachments/assets/679450b9-f5cd-42c4-b90b-746af1cc2ebf" />
+<img width="900" height="580" alt="FinancialCrm_03" src="https://github.com/user-attachments/assets/66620254-03a9-4ffc-aaaf-8ccd341cafc3" />
+<img width="900" height="580" alt="FinancialCrm_04" src="https://github.com/user-attachments/assets/de1b970d-0112-493e-8217-6a03cc999656" />
+<img width="900" height="580" alt="FinancialCrm_05" src="https://github.com/user-attachments/assets/660b08ab-08b6-49ed-9192-1f6024d1014c" />
+<img width="900" height="580" alt="FinancialCrm_06" src="https://github.com/user-attachments/assets/e68f6e06-7bd3-46bc-8664-705600212a20" />
+<img width="900" height="580" alt="FinancialCrm_07" src="https://github.com/user-attachments/assets/09717eff-45af-4a3d-8ede-cef3938de97b" />
+<img width="900" height="580" alt="FinancialCrm_08" src="https://github.com/user-attachments/assets/2982d8be-72f4-4da2-9dd1-8fae452b92d5" />
+<img width="410" height="361" alt="FinancialCrm_09" src="https://github.com/user-attachments/assets/f7ea1cab-0d20-41ce-a681-da1793f8914f" />

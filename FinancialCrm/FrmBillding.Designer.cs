@@ -77,9 +77,9 @@
             this.panel3.Controls.Add(this.label4);
             this.panel3.Controls.Add(this.txtBillId);
             this.panel3.Controls.Add(this.label2);
-            this.panel3.Location = new System.Drawing.Point(227, 43);
+            this.panel3.Location = new System.Drawing.Point(222, 42);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(549, 173);
+            this.panel3.Size = new System.Drawing.Size(666, 173);
             this.panel3.TabIndex = 5;
             // 
             // btnUpdateBill
@@ -223,9 +223,9 @@
             this.panel2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(76)))), ((int)(((byte)(60)))));
             this.panel2.Controls.Add(this.dataGridView1);
-            this.panel2.Location = new System.Drawing.Point(227, 234);
+            this.panel2.Location = new System.Drawing.Point(222, 230);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(549, 256);
+            this.panel2.Size = new System.Drawing.Size(666, 336);
             this.panel2.TabIndex = 6;
             // 
             // dataGridView1
@@ -235,7 +235,7 @@
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.Location = new System.Drawing.Point(0, 0);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(549, 256);
+            this.dataGridView1.Size = new System.Drawing.Size(666, 336);
             this.dataGridView1.TabIndex = 0;
             // 
             // panel1
@@ -253,7 +253,7 @@
             this.panel1.Controls.Add(this.btnCategories);
             this.panel1.Location = new System.Drawing.Point(5, 42);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(200, 453);
+            this.panel1.Size = new System.Drawing.Size(200, 524);
             this.panel1.TabIndex = 7;
             // 
             // btnExit
@@ -366,7 +366,7 @@
             this.panel5.Controls.Add(this.lblUserName);
             this.panel5.Location = new System.Drawing.Point(7, 7);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(764, 29);
+            this.panel5.Size = new System.Drawing.Size(881, 29);
             this.panel5.TabIndex = 21;
             // 
             // lblUserName
@@ -376,7 +376,7 @@
             this.lblUserName.ForeColor = System.Drawing.Color.Maroon;
             this.lblUserName.Location = new System.Drawing.Point(0, 0);
             this.lblUserName.Name = "lblUserName";
-            this.lblUserName.Size = new System.Drawing.Size(764, 29);
+            this.lblUserName.Size = new System.Drawing.Size(881, 29);
             this.lblUserName.TabIndex = 0;
             this.lblUserName.Text = "Faturalar";
             this.lblUserName.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -386,7 +386,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.ClientSize = new System.Drawing.Size(788, 509);
+            this.ClientSize = new System.Drawing.Size(900, 580);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
